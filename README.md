@@ -23,8 +23,6 @@ Project ini dikembangkan menggunakan **HTML, CSS, dan JavaScript** dengan tampil
 ## 🌐 Live Demo
 🔗 **Demo:** https://your-demo-link.com
 
-> Ganti link di atas dengan URL project milikmu.
-
 ---
 
 ## ⚙️ Tech Stack
