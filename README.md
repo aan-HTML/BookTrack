@@ -1,31 +1,15 @@
 # 📚 Book Track — Personal Reading Tracker
 
-<p align="center">
-  <img src="img/proyek/booktrack.webp" alt="Book Track Preview" width="600"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" alt="Status">
-  <img src="https://img.shields.io/badge/Made%20with-HTML%20CSS%20JS-orange?style=for-the-badge" alt="Tech Stack">
-  <img src="https://img.shields.io/badge/Project-Personal-blue?style=for-the-badge" alt="Project Type">
-  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License">
-</p>
-
 ---
 
-## ✨ Overview
+## Overview
 **Book Track** adalah aplikasi web sederhana yang dibuat untuk membantu pengguna mencatat dan melacak progres membaca buku secara praktis.
 
 Project ini dikembangkan menggunakan **HTML, CSS, dan JavaScript** dengan tampilan minimalis agar pengguna dapat fokus pada pengalaman membaca.
 
 ---
 
-## 🌐 Live Demo
-🔗 **Demo:** https://your-demo-link.com
-
----
-
-## ⚙️ Tech Stack
+## Tech Stack
 - **HTML5** — struktur halaman  
 - **CSS3** — desain & layout  
 - **JavaScript** — interaktivitas  
@@ -33,7 +17,7 @@ Project ini dikembangkan menggunakan **HTML, CSS, dan JavaScript** dengan tampil
 
 ---
 
-## 🚀 Features
+## Features
 - ➕ Menambahkan buku baru  
 - ✅ Menandai buku selesai dibaca  
 - 🗑️ Menghapus buku  
@@ -43,7 +27,7 @@ Project ini dikembangkan menggunakan **HTML, CSS, dan JavaScript** dengan tampil
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```bash
 book-track/
@@ -56,7 +40,7 @@ book-track/
 
 ---
 
-## 💡 Getting Started
+## Getting Started
 
 ```bash
 git clone https://github.com/username/book-track.git
@@ -73,7 +57,7 @@ di browser.
 
 ---
 
-## 🎯 Future Improvements
+## Future Improvements
 - ✏️ Edit data buku  
 - 📊 Statistik membaca  
 - 🌙 Dark mode  
@@ -92,5 +76,5 @@ Frontend Developer 🚀
 
 ---
 
-## ⭐ Support
+## Support
 Jika kamu suka project ini, beri **star ⭐** pada repository ini.
