@@ -1,4 +1,4 @@
-# 📚 Book Track — Personal Reading Tracker
+# BookTrack
 
 ---
 
